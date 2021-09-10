@@ -1,5 +1,5 @@
 # Welcome to Infinity Casino!
-### We are a fully decentralized blockchain gambling site utilizing ethereum smart contracts.
+### We are a fully decentralized blockchain gambling site utilizing ethereum smart contract
 
 Our games currently run off smart contracts on the ethereum blockchain. We are fully serverless and decentralized, while still providing a scalability approach & solution with our unique "burst betting" channels, allowing bettors to play multiple rounds of betting with a single blockchain transaction.
 
